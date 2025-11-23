@@ -1,2 +1,1 @@
-file2 locally created
-Add new line from master 
+Messing up file2.txt on newFeature branch 
