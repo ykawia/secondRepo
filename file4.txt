@@ -1,0 +1,1 @@
+Adding file4.txt to newFeature 
