@@ -1,1 +1,2 @@
 file2 locally created
+Add new line from master 
